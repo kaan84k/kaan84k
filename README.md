@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Kalana 👋
 
-<!--
-**kaan84k/kaan84k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI/ML Intern at SLT Telecom PLC** with a passion for building intelligent solutions and full stack web applications. Currently pursuing a **BSc (Honors) in Computer Science** at SEUSL.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript (Node.js, React, Express, MongoDB)
+- **Stack:** MERN Stack, AI/ML Development
+- **Interests:** Machine Learning, Deep Learning, Web Apps, Data Science
+
+## 📚 Education
+
+- **BSc (Honors) in Computer Science**
+  - South Eastern University of Sri Lanka (SEUSL)
+
+## 🌱 What I'm Working On
+
+- AI/ML projects as part of my internship at SLT Telecom PLC
+- MERN stack applications and exploring new technologies in the AI space
+
+## 📫 Connect with Me
+
+- [LinkedIn: Hewapathirana K R](https://www.linkedin.com/in/hewapathirana-kr/)
+
+---
+
+Feel free to check out my repositories and connect!
