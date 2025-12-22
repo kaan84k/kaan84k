@@ -1,6 +1,6 @@
 # Hi there, I'm Kalana 👋
 
-I'm an **AI/ML Intern at SLT Telecom PLC** with a passion for building intelligent solutions and full stack web applications. Currently pursuing a **BSc (Honors) in Computer Science** at SEUSL.
+I'm an former **AI/ML Intern at SLT Telecom PLC** with a passion for building intelligent solutions and full stack web applications. graduated with **BSc (Honors) in Computer Science** at SEUSL.
 
 ## 🚀 Skills & Technologies
 
